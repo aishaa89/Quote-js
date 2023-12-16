@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #c5cdd7;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight:700 ;
+   font-size: 80px;
+
+}
+p{
+    font-family: 'Roboto Slab', serif;
+   
+}
+button{
+    background-color: blue;
+    color: #ffffff;
+    cursor: default;
+
+}
+button:hover{
+    background-color: #008000;
+    cursor: default;
+}
